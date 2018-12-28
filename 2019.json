@@ -1,30 +1,30 @@
 {
-  '2019-05-30': {
-    'text': 'Finale U10',
-    'info': 'U10 Finale: Do 30.05.2019  Brückl'
+  "2019-05-30": {
+    "text": "Finale U10",
+    "info": "U10 Finale: Do 30.05.2019  Brückl"
   },
-  '2019-05-19': {
-    'text': 'Finale U11',
-    'info': 'U11 Finale: So 19.05.2019  Brückl'
+  "2019-05-19": {
+    "text": "Finale U11",
+    "info": "U11 Finale: So 19.05.2019  Brückl"
   },
-  '2019-04-07': {
-    'text': 'Finale U12',
-    'info': 'U12 Finale: So 07.04.2019  Klagenfurt'
+  "2019-04-07": {
+    "text": "Finale U12",
+    "info": "U12 Finale: So 07.04.2019  Klagenfurt"
   },
-  '2019-04-27': {
-    'text': 'Finale U13',
-    'info': 'U13 Finale: Sa 27.04.2019  Wolfsberg'
+  "2019-04-27": {
+    "text": "Finale U13",
+    "info": "U13 Finale: Sa 27.04.2019  Wolfsberg"
   },
-  '2019-05-05': {
-    'text': 'Finale U15',
-    'info': 'U15 Finale: So 05.05.2019  Klagenfurt'
+  "2019-05-05": {
+    "text": "Finale U15",
+    "info": "U15 Finale: So 05.05.2019  Klagenfurt"
   },
-  '2019-03-03': {
-    'text': 'Finale U17',
-    'info': 'U17 Finale: So 03.03.2019  Villach'
+  "2019-03-03": {
+    "text": "Finale U17",
+    "info": "U17 Finale: So 03.03.2019  Villach"
   },
-  '2019-01-27': {
-    'text': 'Finale u19',
-    'info': 'U19 Finale: So 27.01.2019  10:00  BSH Sportpark  Klagenfurt'
+  "2019-01-27": {
+    "text": "Finale u19",
+    "info": "U19 Finale: So 27.01.2019  10:00  BSH Sportpark  Klagenfurt"
   }
 }
